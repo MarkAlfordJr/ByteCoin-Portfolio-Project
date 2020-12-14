@@ -1,0 +1,9 @@
+# ByteCoin-Portfolio-Project
+
+Ios app using a bitcoin api to retrieve the current pricing of bitcoin, in all major national currencies
+
+you will have to create your own API Key to run this app
+
+please refer to the AppCompendium file, within app, for further description on app.
+
+Project app credited to London App Brewery
